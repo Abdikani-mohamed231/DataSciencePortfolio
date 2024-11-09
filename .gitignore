@@ -1,0 +1,2 @@
+*.DS_Store
+datasets/* # Avoid tracking large datasets
